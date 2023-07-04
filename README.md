@@ -1,2 +1,1 @@
-Alx needs growth mindset
-updated
+my first readme
